@@ -125,6 +125,10 @@
 					<div class="col-md-6 col-lg-4 text-center" id="londons-handyman">
 						<div class="work-cont">
 							<img src="images/londons-handyman.jpg" alt="Londons Handyman website being displayed on Mobile and Desktop." />
+							<!-- Overlay -->
+						  <div class="hidden-xs hidden-sm hidden-md overbox">
+						    <div class="title overtext"> View Project Details </div>
+						  </div>
 						</div>
 					</div>
 						<!-- Londons Handyman Details -->
@@ -155,6 +159,10 @@
 					<div class="col-md-6 col-lg-4 text-center" id="senior-moments">
 						<div class="work-cont">
 							<img src="images/senior-moments.jpg" alt="Senior Moments Logo" />
+							<!-- Overlay -->
+						  <div class="hidden-xs hidden-sm hidden-md overbox">
+						    <div class="title overtext"> View Project Details </div>
+						  </div>
 						</div>
 					</div>
 						<!-- Senior Moments Details -->
@@ -179,6 +187,10 @@
 					<div class="col-md-6 col-lg-4 text-center" id="4-corner">
 						<div class="work-cont">
 							<img src="images/4-corner.jpg" alt="4 Corner Electrical Services website on a Mobile and Desktop device." />
+							<!-- Overlay -->
+						  <div class="hidden-xs hidden-sm hidden-md overbox">
+						    <div class="title overtext"> View Project Details </div>
+						  </div>
 						</div>
 					</div>
 						<!-- 4 Corner Electrical Servcies Details -->
@@ -205,6 +217,10 @@
 					<div class="col-md-6 col-lg-4 text-center" id="lovely-grubbly">
 						<div class="work-cont">
 							<img src="images/lovely-grubbly.jpg" alt="Lovely Grubbly Website Design" />
+							<!-- Overlay -->
+						  <div class="hidden-xs hidden-sm hidden-md overbox">
+						    <div class="title overtext"> View Project Details </div>
+						  </div>
 						</div>
 					</div>
 						<!-- lovely Grubbly Details -->
@@ -230,6 +246,10 @@
 					<div class="col-md-6 col-lg-4 text-center" id="social-advisors">
 						<div class="work-cont">
 							<img src="images/social-advisors.jpg" alt="Social Advisors Logo" />
+							<!-- Overlay -->
+						  <div class="hidden-xs hidden-sm hidden-md overbox">
+						    <div class="title overtext"> View Project Details </div>
+						  </div>
 						</div>
 					</div>
 						<!-- Social Advisors Details -->
@@ -252,6 +272,10 @@
 					<div class="col-md-6 col-lg-4 text-center" id="home-refurb">
 						<div class="work-cont">
 							<img src="images/home-refurb.jpg" alt="Home Refurb Logo" />
+							<!-- Overlay -->
+						  <div class="hidden-xs hidden-sm hidden-md overbox">
+						    <div class="title overtext"> View Project Details </div>
+						  </div>
 						</div>
 					</div>
 						<!-- 4 Corner Electrical Servcies Details -->

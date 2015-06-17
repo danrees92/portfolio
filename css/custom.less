@@ -257,11 +257,69 @@ footer {
   border: @default_border;
   margin: 15px auto;
   cursor: pointer;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
 }
 
-.work-cont:hover {
-  transition: all 0.5s ease 0s;
-  opacity: 0.8;
+/* My Work over boxes */
+.work-cont .overbox {
+  background-color: @brand_color_three;
+  color: @brand_font_one;
+  height: 295px;
+  left: 17px;
+  opacity: 0;
+  padding: 130px 20px;
+  position: absolute;
+  top: 18px;
+  transition: all 300ms ease-out 0s;
+  width: 359px;
+  z-index: 100;
+}
+
+.work-cont:hover .overbox { 
+  opacity: 0.8; 
+}
+
+.work-cont .overtext {
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  transform: translateY(40px);
+  -webkit-transform: translateY(40px);
+}
+
+.work-cont .title {
+  font-size: 28px;
+  text-transform: uppercase;
+  opacity: 0;
+  transition-delay: 0.1s;
+  transition-duration: 0.2s;
+}
+
+.work-cont:hover .title,
+.work-cont:focus .title {
+  opacity: 1;
+  transform: translateY(0px);
+  -webkit-transform: translateY(0px);
+}
+
+.work-cont .tagline {
+  font-size: 0.8em;
+  opacity: 0;
+  transition-delay: 0.2s;
+  transition-duration: 0.2s;
+}
+
+.work-cont:hover .tagline,
+.work-cont:focus .tagline {
+  opacity: 1;
+  transform: translateX(0px);
+  -webkit-transform: translateX(0px);
 }
 
 .work-info {
