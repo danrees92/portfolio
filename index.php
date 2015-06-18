@@ -102,10 +102,10 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<h1>About Me</h1>
-					<p>Hi! My name is Dan and I am a Web Developer from Dartford, Kent. Welcome to my website.</p>
-					<p>As much as I love developing websites, I also enjoy opening up a blank Photoshop canvas and producing a web design from scratch.</p>
+					<p>Hello and welcome! My name is Dan and I am a Web Developer from Dartford, Kent.</p>
+					<p>As passionate as I am about building websites, I also enjoy starting from scratch with a blank Photoshop canvas and designing a website. Usually in this industry, you are one or the other, but I like to mix it up a little.</p>
 					<p>In 2013, I graduated from the University of Greenwich with a 2:1 after three years of studying Web Technologies.</p>
-					<p>Whether it is design or development, I am very keen to keep up to date with the latest trends and technologies, and I look to implement these into new projects I work on.</p>
+					<p>Whether it is design or development, I am very keen to keep up to date with the latest trends and technologies. I will do what I can to study new industry trends, and implement them into my work flow as quickly as possible.</p>
 					<a href="#mywork" title="View my work" class="btn btn-primary">View my work</a>
 				</div>
 			</div>
