@@ -283,7 +283,6 @@
 							<!-- Details -->
 							<h1>Home Refurb</h1>
 							<p>Home Refurb are a small company based in South East London, specialising in high quality home refurbishment. They were potentially looking for a new brand identity, and asked me to mock up a new logo for them.</p>
-							<p>Nothing has come of this as yet, but I wanted to share it as a part of my portfolio.</p>
 							<!-- Services -->
 							<h2>Services Include</h2>
 							<ul>
